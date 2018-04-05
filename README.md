@@ -1,5 +1,6 @@
 # python-client-and-lib
-Example of a .py that runs on its own for unit testing, but is also imported by a client .py script.
+Example of a .py that runs on its own for unit testing, but is also imported by
+a client .py script.
 
 This is a silly example. None of the code does anything useful.
 
